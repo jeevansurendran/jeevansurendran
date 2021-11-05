@@ -27,7 +27,7 @@
 
 #### Get in touch 📫
 - Mail: **jvns67@gmail.com**
-- Personal site: **[jeevansurendran.com](https://jeevansurendran.com)** (under development for now😬)
+- Personal site: **[jeevansurendran.com](https://jeevansurendran.com)**
 
 
 #### My quirks
