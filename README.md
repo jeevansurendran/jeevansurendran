@@ -13,7 +13,7 @@
 #### Technologies 🔭
 ##### Android Techonolgies
 - **[Android](https://developer.android.com/)**
-- **[Jetpack](https://developer.android.com/jetpack)**
+- **[Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html)**
 
 ##### Web Techonolgies
 - **[React](https://reactjs.org)**
