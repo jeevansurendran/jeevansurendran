@@ -21,6 +21,7 @@
 - **[NodeJS](https://nodejs.org/en/)**
 
 #### Work 🌱
+- Member of technical staff Intern at **[DevRev](https://devrev.ai/)** in 2022.
 - Android Development Intern at **[AppyHigh](https://appyhigh.com/)** in summer 2021.
 - Android Development Intern at  **[Check-In](https://play.google.com/store/apps/details?id=com.checkin.app.checkin)** in summer 2020.
 - Working on **[Boop](https://boop.vercel.app/)** and **[Turtlewig](https://turtlewig.com)** in my free time.
