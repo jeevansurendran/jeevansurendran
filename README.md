@@ -7,28 +7,18 @@
 </h2>
 
 #### About Me ⚡
-- I love to build android apps that provides the best features and a great user experience.
-- I also spend my time learning about design and build web apps on React.
-
-#### Technologies 🔭
-##### Android Techonolgies
-- **[Android](https://developer.android.com/)**
-- **[Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html)**
-
-##### Web Techonolgies
-- **[React](https://reactjs.org)**
-- **[Typescript](https://www.typescriptlang.org/)**
-- **[NodeJS](https://nodejs.org/en/)**
+- I love to build softwares with a great user experience.
+- I also spend my time learning about LLMs and AI.
 
 #### Work 🌱
-- Member of technical staff Intern at **[DevRev](https://devrev.ai/)** in 2022.
+- Member of technical staff at **[DevRev](https://devrev.ai/)** since 2022.
+- Member of technical staff Intern at **[DevRev](https://devrev.ai/)** in 2021.
 - Android Development Intern at **[AppyHigh](https://appyhigh.com/)** in summer 2021.
 - Android Development Intern at  **[Check-In](https://play.google.com/store/apps/details?id=com.checkin.app.checkin)** in summer 2020.
 - Working on **[Boop](https://boop.vercel.app/)** and **[Turtlewig](https://turtlewig.com)** in my free time.
 
 #### Get in touch 📫
 - Mail: **jvns67@gmail.com**
-- Personal site: **[jeevansurendran.com](https://jeevansurendran.com)**
 
 
 #### My quirks
