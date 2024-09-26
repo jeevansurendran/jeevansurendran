@@ -1,4 +1,3 @@
-## About ME 🪀🪀
 ```kotlin
 val jeevan = developer {
     about {
